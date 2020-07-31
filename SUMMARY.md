@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Sample Notes](README.md)
+* [Introduction](README.md)
 
